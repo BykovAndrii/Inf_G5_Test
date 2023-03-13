@@ -2,6 +2,7 @@
 {
     public class Class1
     {
-        int a;
+        int a = 1;
+        int b = 0;
     }
 }
